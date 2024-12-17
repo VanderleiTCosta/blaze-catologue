@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'MinhaFonte'; 
+  src: url('../public/fonts/Iceberg-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.App {
+  text-align: center;
+  background-color: black;
+  font-family: 'MinhaFonte', sans-serif;
+}
+

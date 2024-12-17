@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.891d40c2.css",
+    "main.js": "/static/js/main.b9138e73.js",
+    "static/js/453.a6a97343.chunk.js": "/static/js/453.a6a97343.chunk.js",
+    "static/media/Iceberg-Regular.ttf": "/static/media/Iceberg-Regular.f6c60b769e7d664cf892.ttf",
+    "index.html": "/index.html",
+    "main.891d40c2.css.map": "/static/css/main.891d40c2.css.map",
+    "main.b9138e73.js.map": "/static/js/main.b9138e73.js.map",
+    "453.a6a97343.chunk.js.map": "/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.891d40c2.css",
+    "static/js/main.b9138e73.js"
+  ]
+}
